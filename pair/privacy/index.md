@@ -28,7 +28,7 @@ Pro の購入と購読は Apple の App Store を通じて処理されます。�
 本ポリシーを変更する場合は、このページを更新します。
 
 ### 連絡先
-ご質問は次の連絡先までお願いします: （メールアドレスを記入）
+ご質問は次の連絡先までお願いします: zigadelirasu@gmail.com
 
 ## English
 
@@ -56,4 +56,4 @@ The app is suitable for all ages and collects no information from anyone, of any
 If this policy changes, this page will be updated.
 
 ### Contact
-Questions: (add your email address)
+Questions: zigadelirasu@gmail.com

@@ -21,7 +21,7 @@ Pair is an iOS app for tidying look-alike photos: compare two at a time and tap 
 ご質問・不具合の報告は下記までお願いします。
 For questions or bug reports, contact:
 
-（メールアドレスを記入 / add your email address）
+zigadelirasu@gmail.com
 
 ## プライバシーポリシー / Privacy Policy
 
